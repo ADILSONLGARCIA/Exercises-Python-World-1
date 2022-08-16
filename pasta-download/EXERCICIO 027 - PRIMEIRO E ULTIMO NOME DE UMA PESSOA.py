@@ -1,0 +1,6 @@
+n: str = str(input('Please, enter your full name:')).strip()
+nome = n.split()
+print('Nice to meet you!')
+print('Your first name is {}'.format(nome[0]))
+print('Your last name is {}'.format(nome[len(nome)-1]))
+print('Thank you for help!')
