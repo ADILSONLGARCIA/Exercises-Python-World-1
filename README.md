@@ -14,6 +14,6 @@ E por final ainda tive o prazer de aprender como utilizar os códigos de escape 
 
 Esta etapa foi composta por 45 aulas, onde resolvi 35 exercícios.
 
-Curso com 30 horas, mas fiz em umas 50 horas. ;)
+Curso com 40 horas, mas fiz em umas 50 horas. ;)
 
 Fonte do curso em vídeo: https://www.cursoemvideo.com/curso/python-3-mundo-1/
